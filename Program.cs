@@ -62,15 +62,15 @@ class Program
     string melhorOpcao = DefMelhorOpcao(cpkEtanol, cpkGasolina); // Determine the best refueling option
 
     // Output
-    Console.WriteLine($"\n🔋 Valores para completar o tanque:");
+    Console.WriteLine($"\n Valores para completar o tanque:");
     Console.WriteLine($"Etanol: R$ {precoTanqueEtanol:F2}");
     Console.WriteLine($"Gasolina: R$ {precoTanqueGasolina:F2}");
 
-    Console.WriteLine($"\n📏 Autonomia:");
+    Console.WriteLine($"\n Autonomia:");
     Console.WriteLine($"Etanol: {autonomiaEtanol:F2} km");
     Console.WriteLine($"Gasolina: {autonomiaGasolina:F2} km");
 
-    Console.WriteLine($"\n💰 Custo por km rodado:");
+    Console.WriteLine($"\n Custo por km rodado:");
     Console.WriteLine($"Etanol: R$ {cpkEtanol:F2}/km");
     Console.WriteLine($"Gasolina: R$ {cpkGasolina:F2}/km");
 
