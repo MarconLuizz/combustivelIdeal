@@ -1,0 +1,14 @@
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\bin\Debug\net8.0\abastecimentoideal.exe
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\bin\Debug\net8.0\abastecimentoideal.deps.json
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\bin\Debug\net8.0\abastecimentoideal.runtimeconfig.json
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\bin\Debug\net8.0\abastecimentoideal.dll
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\bin\Debug\net8.0\abastecimentoideal.pdb
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\abastecimentoideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\abastecimentoideal.AssemblyInfoInputs.cache
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\abastecimentoideal.AssemblyInfo.cs
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\abastecimentoideal.csproj.CoreCompileInputs.cache
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\abastecimentoideal.dll
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\refint\abastecimentoideal.dll
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\abastecimentoideal.pdb
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\abastecimentoideal.genruntimeconfig.cache
+C:\Users\asmar\OneDrive\Documentos\abastecimentoideal\obj\Debug\net8.0\ref\abastecimentoideal.dll
